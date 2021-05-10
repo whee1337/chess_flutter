@@ -1,0 +1,51 @@
+{ 
+    "games": [
+    {"name":"Lettisches Gambit", 
+    "moveSet":[
+    {
+        "turn":1,
+        "white":"e2e4",
+        "black":"e7e5"
+    },
+    {
+        "turn":2,
+        "white":"g1f3",
+        "black":"f7f5"
+    },
+    {
+        "turn":3,
+        "white":"f3e5",
+        "black":"d8f6"
+    },
+    {
+        "turn":4,
+        "white":"d2d4",
+        "black":"d7d6"
+    },
+    {
+        "turn":5,
+        "white":"e5c3",
+        "black":"f5e4"
+    },
+    {
+        "turn":6,
+        "white":"b1c3",
+        "black":"f6g6"
+    },
+    {
+        "turn":7,
+        "white":"f2f3",
+        "black":"e4f3"
+    },
+    {
+        "turn":8,
+        "white":"d1f3",
+        "black":"b8c6"
+    },
+    {
+        "turn":9,
+        "white":"f1d3",
+        "black":"g6g4"
+    }
+]}]
+}
